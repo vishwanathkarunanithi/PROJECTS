@@ -1,0 +1,2 @@
+before running it install the below
+pip install opencv-python numpy pycryptodome
